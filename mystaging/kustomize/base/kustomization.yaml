@@ -7,4 +7,4 @@ resources:
 images:
 - name: myimage
   newName: 600086062597.dkr.ecr.ap-northeast-2.amazonaws.com/erik-test
-  newTag: c464041deff5ea813495eab9c0293f6e90f99f7e
+  newTag: 5a44f510bdc8ebe565e1df258d1484fabd9ce774
